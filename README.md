@@ -154,8 +154,8 @@ Backend  : http://localhost:5000
 
 ## 👨‍💻 Author
 
--**Parth Randar**
--**Karambir**
+**Parth Randar**,
+**Karambir**
 
--GitHub: https://github.com/Slayer04git
--GitHub: https://github.com/karambirstudentece24-arch
+GitHub: https://github.com/Slayer04git,
+GitHub: https://github.com/karambirstudentece24-arch
